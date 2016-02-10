@@ -1,5 +1,7 @@
 # neutral-tumour-evolution
 
+Code to simulate tumour evolution and produce synthetic sequencing data as described in - Williams, M. J., Werner, B., Barnes, C. P., Graham, T. A., & Sottoriva, A. (2016). Identification of neutral tumor evolution across cancer types. Nature Genetics. http://doi.org/10.1038/ng.3489
+
 Simulation was written in the Julia technical computing language.
 For download information see http://julialang.org/
 
